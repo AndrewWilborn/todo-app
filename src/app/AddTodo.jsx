@@ -18,7 +18,6 @@ export default function AddTodo({ setTodoItems }) {
             method: 'POST',
             headers: {
                 'Content-type': 'application/json',
-
             },
             body: JSON.stringify(newTodoItem),
         })

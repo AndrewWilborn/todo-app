@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "todo-app-c11"
+    "default": "todo-auth-c11"
   }
 }
